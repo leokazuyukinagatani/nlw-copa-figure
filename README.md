@@ -12,7 +12,9 @@
 - Data: De 31/10 a 04/11 de 2022
 - Empresa: Rocketseat
 - Evento ministrado por: Diego Schell Fernandes(Co-fundador e CTO na Rocketseat) e Rodrigo Gonçalves Santana(Educator na Rocketseat)
-- Conteúdo: Construção de uma figurinha da Copa 
+- Conteúdo: Construção de uma figurinha da Copa
+
+-Site disponível no link: [NLW Copa](https://leokazuyukinagatani.github.io/nlw-copa-figure)
 
 ## Roadmap
 
