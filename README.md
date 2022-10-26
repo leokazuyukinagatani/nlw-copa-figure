@@ -1,6 +1,5 @@
 [Roadmap](#roadmap) |
 [Documentação](#documentação) |
-[Como Executar](#rodando-localmente) |
 [Projeto](#stack-utilizada) |
 [Next Level](#melhorias) 
 
