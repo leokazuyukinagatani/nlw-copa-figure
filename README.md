@@ -24,31 +24,6 @@
 ## Stack utilizada
 HTML, CSS, Javascript
 
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone https://github.com/leokazuyukinagatani/nlw-e-sports-frontend
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd nlw-e-sports-frontend
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run dev
-```
 
 
 ## Documentação
@@ -67,9 +42,6 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
-- Utilizar Tailwind para estilização
-- Pattern Composition
-- Utilizar Radix 
 
 ## Suporte
 
@@ -80,4 +52,3 @@ Para suporte, mande um email para [leokazuyukinagatani@gmail.com](mailto:leokazu
 
 Segue alguns projetos relacionados
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)

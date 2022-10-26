@@ -12,8 +12,6 @@ function flipCard() {
 }
 
 
-
-
 function save(event) {
   let nameInput = document.querySelector('#input-name')
   let descriptionInput = document.querySelector('#input-description')
