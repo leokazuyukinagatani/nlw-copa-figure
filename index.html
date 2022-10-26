@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card NLW Copa</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="./script.js" defer></script>
+</head>
+<body>
+  <header>
+    <img src="./assets/logo.svg" alt="Logo">
+  </header>
+  <main>
+    <div class="flip-card" >
+      <div class="flip-card-inner">
+        <div class="flip-card-front" ondblclick="flipCard(event)">
+          <img id="photo" src="https:\\github.com/leokazuyukinagatani.png" alt="avatar">
+          <div class="info">
+            <h1 id="name">Leo Kazuyuki Nagatani</h1>
+            <p id="description">Stundent at Rocketseat</p>
+          </div>
+        </div>
+        <div class="flip-card-back">
+          <form action="">
+            <h2>Entre com as suas informações</h2>
+            <input id="input-name" type="text" placeholder="Nome">
+            <input id="input-description" type="text" placeholder="Descrição" >
+            <input id="input-photo" type="text" placeholder="URL de Perfil" >
+
+            <select id="input-course" name="course" id="course" >
+              <option value="explorer">Explorer</option>
+              <option value="ignite">Ignite</option>
+            </select>
+            <button id="btn-save" type="button" onclick="save()">Salvar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+     
+  </main>
+</body>
+</html>
