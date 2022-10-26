@@ -4,7 +4,7 @@
 [Projeto](#stack-utilizada) |
 [Next Level](#melhorias) 
 
-![Logo](https://global-uploads.webflow.com/632c96a9bfec45360c6f8d0a/632dab005bbf2271c32955e4_projects%20-%20nlw%20esports.jpg)
+![Logo](./assets/capa.png)
 
 
 # NLW Copa(Esquenta) - Crie uma figurinha da Copa - Frontend
